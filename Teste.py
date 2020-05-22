@@ -1,4 +1,6 @@
+# Para lançar números aleatórios
 from random import randint
+# Para dar um suspence
 from time import sleep
 print('{:=^50}'.format(''))
 print('{:^50}'.format(' Jogo do Par ou Ímpar '))
